@@ -14,7 +14,7 @@ export default function HomePage() {
       <>
           <section id="home"> <Home/> </section>
           <section id="about"><About/></section>
-          <section id="Skills"><Skills/></section>
+          <section id="skill"><Skills/></section>
           <section id="project"><ProjectsSection/></section>
           <section id="contact"><Contact/></section>
           <section id="footer"><Footer/></section>
