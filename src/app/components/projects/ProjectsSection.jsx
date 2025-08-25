@@ -36,7 +36,7 @@ export default function ProjectsSection() {
                     ))}
                 </div>
 
-             
+             as
             </div>
         </section>
     );
